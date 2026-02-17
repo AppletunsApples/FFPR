@@ -1,6 +1,6 @@
-This Fakemon Festival Pack is an ongoing project to share free-to-use Fakemon sprites, PBS data, and cries to the fan game community.
+This Fakemon Festival Pack Redux is an ongoing project to share free-to-use Fakemon sprites, PBS data, and cries to the fan game community.
 
-If you would like to contribute, check out the Discord and forum post at https://eeveeexpo.com/threads/7867/
+If you would like to contribute, check out the forum post at https://eeveeexpo.com/resources/1871/.
 
 If you notice any errors or stolen art (ie. art created by you or someone else that is 
 not available for public use) please contact us on the above forum immediately.
