@@ -1,0 +1,149 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[GOBLEGG]
+Name = Goblegg
+Types = NORMAL,DARK
+BaseStats = 50,100,90,50,130,80
+GenderRatio = Genderless
+GrowthRate = Medium
+BaseExp = 172
+EVs = DEFENSE,2
+CatchRate = 60
+Happiness = 50
+Abilities = SKILLLINK,REGENERATOR
+HiddenAbilities = PRANKSTER
+Moves = 1,EGGBOMB,1,CHARGE,1,TACKLE,1,EERIEIMPULSE,4,THUNDERSHOCK,6,EERIEIMPULSE,9,BULKUP,11,ROLLOUT,13,SCREECH,16,CHARGEBEAM,20,SWIFT,22,FLAIL,26,BARRAGE,29,LIGHTSCREEN,36,REFLECT,41,SIMPLEBEAM,47,EXPLOSION,54,GYROBALL,58,MIRRORCOAT
+TutorMoves = CHARGEBEAM,CONFIDE,DOUBLETEAM,ENDURE,EXPLOSION,FACADE,FLASH,FOULPLAY,FRUSTRATION,GIGAIMPACT,GYROBALL,HEADBUTT,HIDDENPOWER,HYPERBEAM,LIGHTSCREEN,MAGICCOAT,MAGNETRISE,MIMIC,NATURALGIFT,PROTECT,RAINDANCE,REST,RETURN,ROLLOUT,ROUND,SECRETPOWER,SHOCKWAVE,SIGNALBEAM,SLEEPTALK,SNORE,SUBSTITUTE,SUCKERPUNCH,SWAGGER,SWIFT,TAUNT,TELEKINESIS,THIEF,TORMENT,TERABLAST
+EggGroups = Mineral
+HatchSteps = 5120
+Height = 1.2
+Weight = 66.6
+Color = Green
+Shape = Head
+Habitat = Urban
+Category = Prankster Egg
+Pokedex = Watch out when finding eggs in cities. Goblegg are said to disguise as eggs to sneak attack young trainers.
+Generation = 0
+#-------------------------------
+[CHICKPEACE]
+Name = Chickpeace
+Types = FLYING,NORMAL
+BaseStats = 48,55,55,70,55,55
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 65
+EVs = HP,1
+CatchRate = 45
+Happiness = 50
+Abilities = ADAPTABILITY
+HiddenAbilities = PLUCKY
+Moves = 
+TutorMoves = 
+EggMoves = AGILITY,CHARM,DETECT,FAKETEARS,HEADBUTT,SWIFT
+EggGroups = Flying
+HatchSteps = 8960
+Height = 0.3
+Weight = 2.0
+Shape = Winged
+Habitat = Urban
+Category = Seasonal
+Pokedex = 
+Generation = 0
+Evolutions = FESPRING,Item,LEAFSTONE,ROOSUM,Item,SUNSTONE,PEAFALL,Item,DUSKSTONE,OWWINT,Item,ICESTONE
+#-------------------------------
+[FESPRING]
+Name = Fespring
+Types = FLYING,GRASS
+BaseStats = 85,100,110,95,65,55
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 65
+EVs = DEFENSE,2
+CatchRate = 30
+Happiness = 50
+Abilities = CHLOROPHYLL
+HiddenAbilities = PLUCKY
+Moves = 
+TutorMoves = 
+EggGroups = Flying
+HatchSteps = 8960
+Height = 
+Weight = 
+Shape = Winged
+Habitat = Urban
+Category = Breezy
+Pokedex = 
+Generation = 0
+#-------------------------------
+[ROOSUM]
+Name = Roosum
+Types = FLYING,FIRE
+BaseStats = 85,55,65,95,100,110
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 65
+EVs = SPECIAL_DEFENSE,2
+CatchRate = 30
+Happiness = 50
+Abilities = SOLARPOWER
+HiddenAbilities = PLUCKY
+Moves = 
+TutorMoves = 
+EggGroups = Flying
+HatchSteps = 8960
+Height = 
+Weight = 
+Shape = Winged
+Habitat = Urban
+Category = Sunny
+Pokedex = 
+Generation = 0
+#-------------------------------
+[PEAFALL]
+Name = PEAFALL
+Types = FLYING,GROUND
+BaseStats = 85,110,100,95,55,65
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 65
+EVs = ATTACK,2
+CatchRate = 30
+Happiness = 50
+Abilities = HOSPITALITY
+HiddenAbilities = PLUCKY
+Moves = 
+TutorMoves = 
+EggGroups = Flying
+HatchSteps = 8960
+Height = 
+Weight = 
+Shape = Winged
+Habitat = Urban
+Category = Leafy
+Pokedex = 
+Generation = 0
+#-------------------------------
+[OWWINT]
+Name = Owwint
+Types = FLYING,ICE
+BaseStats = 85,65,55,95,110,100
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 65
+EVs = SPECIAL_ATTACK,2
+CatchRate = 30
+Happiness = 50
+Abilities = SNOWFORCE
+HiddenAbilities = PLUCKY
+Moves = 
+TutorMoves = 
+EggGroups = Flying
+HatchSteps = 8960
+Height = 
+Weight = 
+Shape = Winged
+Habitat = Urban
+Category = Snowy
+Pokedex =
+Generation = 0
+#-------------------------------
