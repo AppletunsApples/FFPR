@@ -2,8 +2,7 @@ The Fakemon Festival Pack Redux is an ongoing project to share free-to-use Fakem
 
 If you would like to contribute, check out the forum post at https://eeveeexpo.com/resources/1871/.
 
-If you notice any errors or stolen art (i.e. art created by you or someone else that is 
-not available for public use) please contact us on the above forum immediately.
+If you notice any errors or stolen art (i.e. art created by you or someone else that is not available for public use) please contact us on the above forum immediately.
 
 ### RULES ###
 To use this resource, you must:
@@ -42,7 +41,7 @@ Missing completely for
 
 **Icons:**
 Missing shinies only for
-- Chickapeace line
+- Chickpeace line
 - Corsopuntia line
 - Alt Cyndaquil line
 - Diommet line
@@ -52,7 +51,7 @@ Missing shinies only for
 - Goblegg
 
 Missing completely for
-- Chickapeace line
+- Chickpeace line
 - Mega Mothim
 - Mega Lanturn
 - Galarian Koffing
@@ -67,7 +66,6 @@ Sprites missing completely for:
 - Will be completed for all currently added before May ends hopefully.
 
 **One note: There is one line of Fakemon with a branching evolution. Chickpeace is the first stage and 
-evolves into Feaspring, Roosum, Peafall, and Owwint depending on the season (although level-up with a move
-or using a stone could also work). The other evolutions are more obvious.
+evolves into Feaspring, Roosum, Peafall, and Owwint depending on the season (although level-up with a move or using a stone could also work). The other evolutions are more obvious.
 
 We hope you will use this project to its fullest potential!
