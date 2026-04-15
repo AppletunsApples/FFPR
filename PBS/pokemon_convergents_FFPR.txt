@@ -235,9 +235,9 @@ Color = Purple
 Shape = Insectoid
 Habitat = Sea
 Category = Sea Enemy
-Pokedex = Haras bury heir body in the sand. When their anemonies sense another Pokémon, they jump out and steal their food.
+Pokedex = Haras bury their body in the sand. When their anemonies sense another Pokémon, they jump out and steal their food.
 Generation = 0
-Evolutions = HARASpoke,Level,24
+Evolutions = HARASPOKE,Level,24
 #-------------------------------
 [HARASPOKE]
 Name = Haraspoke
@@ -266,7 +266,7 @@ Generation = 0
 #-------------------------------
 [MELTWICK]
 Name = Meltwick
-Types = GHOST
+Types = GHOST,POISON
 BaseStats = 50,30,55,20,65,55
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
