@@ -64,7 +64,7 @@ Sprites missing completely for:
 - Hisuian Quilava
 
 **PBS:**
-- Will be completed for all currently added later today.
+- Will be completed for all currently added before May ends hopefully.
 
 **One note: There is one line of Fakemon with a branching evolution. Chickpeace is the first stage and 
 evolves into Feaspring, Roosum, Peafall, and Owwint depending on the season (although level-up with a move
